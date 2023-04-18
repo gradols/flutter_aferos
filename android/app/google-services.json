@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "992033020375",
+    "project_id": "aferosapp",
+    "storage_bucket": "aferosapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992033020375:android:fd47e883129ae655b4d392",
+        "android_client_info": {
+          "package_name": "com.gradols.aferos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992033020375-pccmnvehss401itd4gbjsi3f38n8vjnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gradols.aferos",
+            "certificate_hash": "64915e182998553c6e7a1af47c066594f53ee075"
+          }
+        },
+        {
+          "client_id": "992033020375-gk4g28bdf9b18f1iboajtepurennkoqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCb9rrujHQSCDnHXVsg4bjnfgoLL2AOc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992033020375-gk4g28bdf9b18f1iboajtepurennkoqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
